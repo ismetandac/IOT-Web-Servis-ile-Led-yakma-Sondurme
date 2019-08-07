@@ -1,0 +1,9 @@
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\bin\Debug\LedProject.Core.Model.dll
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\bin\Debug\LedProject.Core.Model.pdb
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\obj\Debug\LedProject.Core.Model.csprojAssemblyReference.cache
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\obj\Debug\LedProject.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\obj\Debug\LedProject.Core.Model.csproj.CopyComplete
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\obj\Debug\LedProject.Core.Model.dll
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\obj\Debug\LedProject.Core.Model.pdb

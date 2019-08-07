@@ -1,0 +1,8 @@
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\bin\Release\LedProject.Core.Model.dll
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\bin\Release\LedProject.Core.Model.pdb
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\bin\Release\EntityFramework.dll
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\obj\Release\LedProject.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\obj\Release\LedProject.Core.Model.csproj.CopyComplete
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\obj\Release\LedProject.Core.Model.dll
+C:\Users\Abdullah\Source\repos\LedProject\LedProject.Core.Model\obj\Release\LedProject.Core.Model.pdb
